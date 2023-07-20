@@ -177,7 +177,7 @@ def imagesc_schaeffer_17(connectivity_matrix, parcel_labels, minmax, border_widt
 
     for i in network_edges:
         plt.axhline(y=i + 0.5,color=linecolor, lw=lw)
-
+ 
     ######################################################################################
     ######################################################################################
 
